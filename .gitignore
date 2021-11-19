@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+### Gradle template
+.gradle
+/build/
+/.idea
+/gradle
+gradlew
+gradlew.bat
+CLIdemo.iml
+
 # Log file
 *.log
 
