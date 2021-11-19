@@ -16,3 +16,7 @@ Repository comes with a default file that can be called with the command -f test
 @attribute Bare_Nuclei numeric
 @attribute Normal_Nucleoli numeric
 @attribute Class {Benign,Malignant}
+
+has the following dependencies:
+commons-cli:commons-cli:1.4
+nz.ac.waikato.cms.weka', name: 'weka-stable', version: '3.8.5
